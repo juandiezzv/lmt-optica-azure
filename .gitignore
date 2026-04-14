@@ -1,0 +1,9 @@
+# Secrets - nunca subir al repo
+*.env
+secrets.sh
+*-secrets.sh
+infra/secrets/
+
+# OS
+.DS_Store
+Thumbs.db
