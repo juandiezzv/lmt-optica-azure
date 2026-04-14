@@ -1,6 +1,6 @@
 #!/bin/bash
 RESOURCE_GROUP="lmt-optica-rg"
-LOCATION="eastus"
+LOCATION="brazilsouth"
 PROJECT="lmtoptica"
 
 PLAN_NAME="${PROJECT}-plan"
